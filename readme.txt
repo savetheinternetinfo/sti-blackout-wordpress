@@ -9,3 +9,6 @@ Information:
 
 This plugin displays a Blackout-page for the protest against Article 13 & 11.
 Live demo of the page: https://savetheinternetinfo.github.io/blackout/
+
+Download: https://github.com/savetheinternetinfo/sti-blackout-wordpress/releases
+Wordpress link comming soon. 
