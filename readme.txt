@@ -18,6 +18,7 @@ If you want to disable the blackout page you need to deactivate the plugin.
 
 ---
 NOTE: The blackout landingpage uses a few resources from our website https://savetheinternet.info
+      In detail: Two images and a stylesheet.
 
     * https://savetheinternet.info/blackout/blackout.css
     * https://savetheinternet.info/blackout/blackout.gif
@@ -27,4 +28,7 @@ And a google font
 
     * https://fonts.googleapis.com/css?family=Raleway
 
-All of them are transmitted over HTTPS only
+All of them are transmitted over HTTPS only.
+
+- SaveTheInternet Privacy policies: https://savetheinternet.info/privacy-policy
+- Google Fonts Terms: https://developers.google.com/terms/
