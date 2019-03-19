@@ -15,3 +15,16 @@ Wordpress link comming soon.
 
 Once the plugin is activated, the blackout page is enabled.
 If you want to disable the blackout page you need to deactivate the plugin. 
+
+---
+NOTE: The blackout landingpage uses a few resources from our website https://savetheinternet.info
+
+    * https://savetheinternet.info/blackout/blackout.css
+    * https://savetheinternet.info/blackout/blackout.gif
+    * https://savetheinternet.info/blackout/logo.png
+
+And a google font
+
+    * https://fonts.googleapis.com/css?family=Raleway
+
+All of them are transmitted over HTTPS only
