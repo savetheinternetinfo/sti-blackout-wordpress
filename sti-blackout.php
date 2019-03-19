@@ -12,7 +12,7 @@
 	if (!function_exists('wp_redirect')) require(ABSPATH . WPINC . '/pluggable.php');
 	
 	if (!is_admin()){
-		  wp_redirect(plugins_url('sti-blackout/blackout.php'), 302);
+		  wp_redirect(plugins_url('blackout.php', __FILE__), 302);
 		  exit();
 	}
 ?>
